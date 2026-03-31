@@ -1,0 +1,9 @@
+{
+  "node": "TEMPLATE_NODE_NAME",
+  "version": "1.0",
+  "tools": [
+    "audit_resource",
+    "manifest_asset",
+    "report_incident"
+  ]
+}
